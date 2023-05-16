@@ -1,1 +1,1 @@
-# study on exception handling and a fixation exercise 
+# Study on exception handling and a fixation exercise 
