@@ -1,6 +1,6 @@
-package model.entities;
+package entities;
 
-import model.exceptions.WithdrawErrorException;
+import exceptions.WithdrawErrorException;
 
 public class Account {
     

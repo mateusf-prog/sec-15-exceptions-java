@@ -2,8 +2,8 @@ package application;
 
 import java.util.Scanner;
 
-import model.entities.Account;
-import model.exceptions.WithdrawErrorException;
+import entities.Account;
+import exceptions.WithdrawErrorException;
 
 public class Program {
     public static void main(String[] args) {
